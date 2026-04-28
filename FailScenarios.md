@@ -7,7 +7,7 @@ Validation is not implemented yet, but these messages can be used later.
 
 Field: `name`
 
-Possible errors:n
+Possible errors:
 
 - Empty input
 - Text is too short
